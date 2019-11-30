@@ -14,7 +14,7 @@
 <%!
    int check(String s1,String s2)
    {
-   if(s1.equals("satya") && s2.equals("tech"))
+   if(s1.equals("ghanshyam") && s2.equals("patidar"))
     return 1;
    else 
     return 0;
